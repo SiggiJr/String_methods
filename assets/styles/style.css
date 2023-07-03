@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+form {
+  margin: 1rem;
+  display: flex;
+  justify-content: flex-end;
+}
